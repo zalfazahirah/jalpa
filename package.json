@@ -1,0 +1,13 @@
+{
+  "name": "twitbase",
+  "description": "Twitter Autobase Bot",
+  "version": "0.0.1",
+  "main": "twitbase.js",
+  "scripts": {
+    "start": "node twitbase.js"
+  },
+  "dependencies": {
+    "twit": "2.2.11",
+    "request": "2.81.0"
+  }
+}
